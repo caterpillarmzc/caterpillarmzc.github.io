@@ -9,7 +9,7 @@ name: Caterpillar's Home
 description: 你的孤独，虽败犹荣
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/caterpillarmzc/C-/blob/master/48847514.png?raw=true
+avatar:
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email:mzc5215@gmail.com
   facebook:
   flickr:
-  github: https://github.com/caterpillarmzc
+  github:
   instagram:
   linkedin:
   pinterest:
